@@ -59,7 +59,7 @@ Step 2. List adapters and flash:
 
 ```
 ### Show all adapters ###
-Magarec -adplist
+megarec -adplist
 #### clean first card ###
 megarec -writesbr 0 sbrempty.bin
 megarec -cleanflash 0
